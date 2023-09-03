@@ -1,3 +1,3 @@
 # OS232
 
-|| [TARBALL]() || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/hotchlck/os232.git)
+|| [TARBALL]() || [LOG](mylog.txt) || [GitHub](https://github.com/hotchlck/os232.git)
