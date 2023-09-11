@@ -10,7 +10,6 @@ The creator's explanation is simple and easy to follow yet concise and useful.
 For beginners like me, this video is very helpful and intrigued me to learn more abot vim. 
 
 <br> 
-
 [Silberschatz et. al.: Operating System Concepts, 10th Edition, 2018](https://www.os-book.com/OS10/slide-dir/) --- 
 Silberschatz book is used as main references for the Operating System subject. This link will lead you to the power point compilation of Silberschatz book. The power point slides provide concise information. 
 <br> 
