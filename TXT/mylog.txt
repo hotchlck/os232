@@ -1,7 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W01 30 L00 Genereal Activities
+ZCZC W02 40 L00 General Activities
+ZCZC W02 35 L01 SCELE related 
+ZCZC W02 45 L03 Github related 
+ZCZC W02 05 L04 Github page related
+ZCZC W02 53 L05 Quiz & quiz related studying
+ZCZC W02 35 L08 0S Chat related 
+ZCZC W02 74 L09 Reading and watching video assignments
+ZCZC W02 134 L12 Assignment #02
+ZCZC W01 30 L00 General Activities
 ZCZC W01 35 L01 SCELE related 
 ZCZC W01 30 L03 Github related 
 ZCZC W01 09 L04 Github page related 
