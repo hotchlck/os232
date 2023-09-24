@@ -21,6 +21,7 @@ permalink: LINKS/
 - [Basics linux Commands You Should Know](https://linuxopsys.com/topics/basic-linux-commands) ---
   A web page that provide infomrmation about several essentials Linux commands. The informations provided are simple and easy to understand. This      web page also gives us an example on how to use the commands so it is very helpful.
 <br>
+
 ## Week 3 
 - [Linux - Tarballs, Archive and Compress Folders](https://youtu.be/l0yqs8t6ywo?si=HvpL7Bp7eqhIK5JN) ---
   A video explanation on how to work with tarballs in linux. The information provided are helpful and
