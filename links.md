@@ -23,7 +23,8 @@ permalink: LINKS/
 <br>
 ## Week 3 
 - [Linux - Tarballs, Archive and Compress Folders](https://youtu.be/l0yqs8t6ywo?si=HvpL7Bp7eqhIK5JN) ---
-  A video explanation on how to work with tarballs in linux. The information provided are helpful and 
+  A video explanation on how to work with tarballs in linux. The information provided are helpful and
+  <br>
   
 - [How to Create a Simple Makefiles - Introduction to Makefiles](https://youtu.be/_r7i5X0rXJk?si=mb2SfU-9gA7Aweh8) ---
   A video tutorial on how to create simple ```Makefile```. The creator's explanation is concise and straightforward. The video provided great          details and understandable example.
