@@ -24,11 +24,21 @@ permalink: LINKS/
 
 ## Week 3 
 - [Linux - Tarballs, Archive and Compress Folders](https://youtu.be/l0yqs8t6ywo?si=HvpL7Bp7eqhIK5JN) ---
-  A video explanation on how to work with tarballs in linux. The information provided are helpful and
+  A video explanation on how to work with tarballs in linux. The information provided are helpful and concise.
   <br>
   
 - [How to Create a Simple Makefiles - Introduction to Makefiles](https://youtu.be/_r7i5X0rXJk?si=mb2SfU-9gA7Aweh8) ---
   A video tutorial on how to create simple ```Makefile```. The creator's explanation is concise and straightforward. The video provided great          details and understandable example.
   <br>
   
-<hr>
+- [Copying, Moving and Renaming Files and Directories](https://ftp.kh.edu.tw/Linux/Redhat/en_6.2/doc/gsg/s1-managing-working-with-files.htm#) ---
+  Detailed explanation on how to copy, move, and rename files and directories. The web also provided explanation on how to delete files and            directories. There are also example of few commands to help us understand better.
+  <br>
+  
+- [Vim Cheat Sheet](https://vim.rtorr.com/) ---
+  This web is like little dictionary for vim commands. The layout information is well structured so it is easy to understand. This web is helpful if   you need quick information.
+  <br>
+
+- [How to tar a Folder in Linux?](https://linuxhint.com/tar-folder-linux/) ---
+  This website provide information on how to tar a folder, append a tar folder, view a tar folder, and extract a tar folder. This website provide      concise explanation and helpful image example.
+  
