@@ -1,30 +1,40 @@
-ZCZC W04 75 L00 General Activities 
-ZCZC W04 45 L01 SCELE Related 
+ZCZC W05 75 L00 General Activities
+ZCZC W05 50 L01 SCELE Related
+ZCZC W05 40 L03 GitHub Related
+ZCZC W05 80 L05 Quiz Related Studying
+ZCZC W05 135 L06 References and book related
+ZCZC W05 15 L08 OS Chat Related
+ZCZC W05 70 L15 Assignment #05
+ZCZC W05 35 L32 Watching OS Videos on Youtube
+ZCZC W05 15 L41 TXT/mylog.txt related
+ZCZC W05 15 L43 myrank.txt related
+ZCZC W04 75 L00 General Activities
+ZCZC W04 45 L01 SCELE Related
 ZCZC W04 35 L03 Github Related
 ZCZC W04 95 L05 Quiz related studying
-ZCZC W04 150 L06 References and book related 
-ZCZC W04 10 L08 OS Chat related 
+ZCZC W04 150 L06 References and book related
+ZCZC W04 10 L08 OS Chat related
 ZCZC W04 40 L14 Assignment #04
-ZCZC W04 35 L32 Watching OS related vid on youtube 
-ZCZC W04 10 L41 TXT/mylog.txt related 
+ZCZC W04 35 L32 Watching OS related vid on youtube
+ZCZC W04 10 L41 TXT/mylog.txt related
 ZCZC W03 60 L00 General Activities
-ZCZC W03 50 L01 SCELE Related 
+ZCZC W03 50 L01 SCELE Related
 ZCZC W03 10 L03 GitHub related
-ZCZC W03 20 L04 GitHub Pages related 
+ZCZC W03 20 L04 GitHub Pages related
 ZCZC W03 50 L05 Quiz related studying
 ZCZC W03 132 L06 Books related
 ZCZC W03 15 L08 OS Chat related
 ZCZC W03 36 L09 Assignment in general
-ZCZC W03 89 L13 Assignment #03 
-ZCZC W03 15 L41 mylog.txt related 
-ZCZC W03 12 L43 myrank.txt related 
+ZCZC W03 89 L13 Assignment #03
+ZCZC W03 15 L41 mylog.txt related
+ZCZC W03 12 L43 myrank.txt related
 ZCZC W03 17 L64 Helping friend's OS assignment
 ZCZC W02 40 L00 General Activities
-ZCZC W02 35 L01 SCELE related 
-ZCZC W02 45 L03 Github related 
+ZCZC W02 35 L01 SCELE related
+ZCZC W02 45 L03 Github related
 ZCZC W02 05 L04 Github page related
 ZCZC W02 53 L05 Quiz & quiz related studying
-ZCZC W02 35 L08 0S Chat related 
+ZCZC W02 35 L08 0S Chat related
 ZCZC W02 74 L09 Reading and watching video assignments
 ZCZC W02 134 L12 Assignment #02
 ZCZC W01 30 L00 General Activities
