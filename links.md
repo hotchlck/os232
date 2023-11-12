@@ -41,4 +41,57 @@ permalink: LINKS/
 
 - [How to tar a Folder in Linux?](https://linuxhint.com/tar-folder-linux/) ---
   This website provide information on how to tar a folder, append a tar folder, view a tar folder, and extract a tar folder. This website provide      concise explanation and helpful image example.
+<br>
+
+## WEEK 4 
+- [4 Big Endian vs Little Endian Byte Ordering](https://youtu.be/jhErugDB-34?si=eZ8MtpOMX8Mqb3n7) ---
+  This video provide explantion about Big Endian and Little Endian. The explanation provided are great, clear, and easy to understand. The creator's used a more advanced concept (hexadecimal) to 
+  illustrate a less advanced concept (byte order).
+  <br>
   
+- [Transfer Files With the scp Command on Linux](https://www.linode.com/docs/guides/how-to-use-scp/) ---
+  This website provide information of secure copy command. The website also provided tutorial and example
+  <br>
+
+- [Learn C memory addresses in 7 minutes 📬](https://youtu.be/1KVpi0VN82E?si=czkjRrEjcfK7gHx-) ---
+  This video provide infromation on how addressing memory in C works. Concise and clear explanation.
+  <br>
+
+## WEEK 5
+- [Demand Paging And Page Faults](https://youtu.be/58TYdisGrX0?si=FzGcto6THYC0QR3v) ---
+  Provide infromation about demand paging. Helpful and infromative video.
+  <br>
+
+- [What is Virtual Memory in OS (Operating System)?](https://www.javatpoint.com/os-virtual-memory) ---
+  This article provide information of Virtual Memory in OS. This website can help you to understand about virtual memory in OS.
+  <br>
+
+- [Segmentation in OS (Operating System)](https://www.javatpoint.com/os-segmentation) ---
+  This article provide information about segmentation in OS. The information is concise and filled with illustrations to help us understand better.
+  <br>
+
+## WEEK 6 
+- [Process State in OS](https://www.scaler.com/topics/operating-system/process-state-in-os/) ---
+  Provide information about Process State in OS. Helpful and concise expanation.
+  <br>
+
+- [Multi Threading Models in Process Management](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) ---
+  Provide explanation about Multi Threading Models. The article provide advantages and disadvantages of each models.
+  <br>
+
+- [The fork() function in C](https://youtu.be/cex9XrZCU14?si=oV43J4h7AIK9k17P) ---
+  Complex concept explained just in 10 minutes. The creator's explanation is not boring and informative.
+  <br>
+
+## WEEK 7 
+- [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
+  This article provide information about Process Synchronization. This article is helpful if you need brief explanation about the topic.
+  <br>
+
+- [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+  This article explain about Deadlock in Operating System. This article provide thorough information about deadlock.
+  <br>
+
+- [Critical Section Problem in OS (Operating System)](https://www.javatpoint.com/os-critical-section-problem) ---
+  The article addresses the critical section problem in concurrent programming, stressing the importance of protocols for mutual exclusion and discussing solutions like mutex locks.
+  <br>
