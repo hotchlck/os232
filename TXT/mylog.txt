@@ -1,3 +1,16 @@
+ZCZC W07 65 L00 General Activities
+ZCZC W07 75 L01 SCELE Related
+ZCZC W07 15 L03 GitHub Related
+ZCZC W07 25 L04 GitHub Pages Related
+ZCZC W07 75 L05 Quiz Related Studying
+ZCZC W07 115 L06 References and book related
+ZCZC W07 15 L08 OS Chat Related
+ZCZC W07 125 L09 Assignment in General
+ZCZC W07 70 L17 Assignment #07
+ZCZC W07 35 L32 Watching OS Videos on Youtube
+ZCZC W07 15 L40 TXT/ related in general
+ZCZC W07 10 L41 TXT/mylog.txt related
+ZCZC W07 10 L43 TXT/myrank.txt related
 ZCZC W06 70 L00 General Activities
 ZCZC W06 50 L01 SCELE Related
 ZCZC W06 10 L03 GitHub Related
@@ -48,20 +61,20 @@ ZCZC W02 35 L08 0S Chat related
 ZCZC W02 74 L09 Reading and watching video assignments
 ZCZC W02 134 L12 Assignment #02
 ZCZC W01 30 L00 General Activities
-ZCZC W01 35 L01 SCELE related 
-ZCZC W01 30 L03 Github related 
-ZCZC W01 09 L04 Github page related 
-ZCZC W01 15 L06 References related 
-ZCZC W01 28 L08 OS Chat related 
-ZCZC W01 30 L09 Reading Assignments 
+ZCZC W01 35 L01 SCELE related
+ZCZC W01 30 L03 Github related
+ZCZC W01 09 L04 Github page related
+ZCZC W01 15 L06 References related
+ZCZC W01 28 L08 OS Chat related
+ZCZC W01 30 L09 Reading Assignments
 ZCZC W01 143 L11 Assignment #01
-ZCZC W00 20 L01 SCELE Related 
+ZCZC W00 20 L01 SCELE Related
 ZCZC W00 90 L02 Zoom Meetings
 ZCZC W00 10 L03 Github Related
-ZCZC W00 10 L04 Github Pages Related 
+ZCZC W00 10 L04 Github Pages Related
 ZCZC W00 10 L05 Quiz Related Studying
-ZCZC W00 10 L08 OS Chat Related 
-ZCZC W00 60 L09 Reading Assignments 
+ZCZC W00 10 L08 OS Chat Related
+ZCZC W00 60 L09 Reading Assignments
 ZCZC W00 30 L10 Assignment #00
 ZCZC W00 30 L70 Studying other courses
 
