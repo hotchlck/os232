@@ -95,3 +95,5 @@ permalink: LINKS/
 - [Critical Section Problem in OS (Operating System)](https://www.javatpoint.com/os-critical-section-problem) ---
   The article addresses the critical section problem in concurrent programming, stressing the importance of protocols for mutual exclusion and discussing solutions like mutex locks.
   <br>
+
+## WEEK 8
