@@ -1,3 +1,14 @@
+ZCZC W08 50 L00 General Activities
+ZCZC W08 60 L01 SCELE Related
+ZCZC W08 20 L03 GitHub Related
+ZCZC W08 80 L05 Quiz Related Studying
+ZCZC W08 120 L06 References and book related
+ZCZC W08 10 L08 OS Chat Related
+ZCZC W08 200 L18 Assignment #08
+ZCZC W08 40 L32 Watching OS Videos
+ZCZC W08 15 L40 TXT/ realated in general
+ZCZC W08 10 L41 TXT/mylog.txt related
+ZCZC W08 15 L43 TXT/myrank.txt related
 ZCZC W07 65 L00 General Activities
 ZCZC W07 75 L01 SCELE Related
 ZCZC W07 15 L03 GitHub Related
